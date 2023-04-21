@@ -1,0 +1,66 @@
+{
+  "name": "client-ecommerce",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/data-grid": "^4.0.0-alpha.37",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@paypal/react-paypal-js": "^7.8.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "draftjs-to-html": "^0.9.1",
+    "firebase": "^9.6.7",
+    "html-to-draftjs": "^1.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "material-ui-image": "^3.3.2",
+    "query-string": "^7.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-image-gallery": "^1.2.8",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "react-qr-scanner": "^1.0.0-alpha.7",
+    "react-router-dom": "^5.3.3",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.29.0",
+    "react-swipeable-views": "^0.14.0",
+    "react-toastify": "^9.0.8",
+    "universal-cookie": "^4.0.4",
+    "web-vitals": "^2.1.4",
+    "webpack": "^5.73.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

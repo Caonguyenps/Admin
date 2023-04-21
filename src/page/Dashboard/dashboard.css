@@ -1,0 +1,43 @@
+.card {
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+    position: relative;
+}
+.card .zmdi {
+    color: white;
+    font-size: 28px;
+    opacity: 0.3;
+    position: absolute;
+    right: 13px;
+    top: 13px;
+}
+.card .stat {
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    font-size: 8px;
+    margin-top: 25px;
+    padding: 10px 10px 0;
+    text-transform: uppercase;
+}
+.card .title {
+    display: inline-block;
+    font-size: 14px;
+    padding: 10px 10px 0;
+    text-transform: uppercase;
+}
+.card .value {
+    font-size: 28px;
+    padding: 0 10px;
+}
+.card.blue {
+    background-color: #2298f1;
+}
+.card.green {
+    background-color: #66b92e;
+}
+.card.orange {
+    background-color: #da932c;
+}
+.card.red {
+    background-color: #d65b4a;
+}

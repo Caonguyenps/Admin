@@ -1,0 +1,8 @@
+.Wrap-add-product i {
+  font-size: 20px;
+}
+
+.btn-delete-img:hover {
+  cursor: pointer;
+  color: red;
+}

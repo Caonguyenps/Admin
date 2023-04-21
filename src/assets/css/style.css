@@ -1,0 +1,27 @@
+.wrap-body {
+  width: 1260px;
+  margin: 0 auto;
+}
+
+.body-content {
+  min-height: 500px;
+}
+
+.wrap-content-right {
+  padding: 30px;
+}
+
+.content-right {
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 13%);
+}
+
+.head-title {
+  font-size: 18px;
+  font-weight: 500;
+}
+.MuiInputBase-root {
+  background-color: white;
+}
+.MuiInputLabel-root {
+  font-weight: 700 !important;
+}
